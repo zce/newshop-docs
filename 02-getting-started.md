@@ -216,6 +216,6 @@ router.get('/', (req, res, next) => {
 })
 ```
 
-> 增删改查参考：
+> 使用 Sequelize 模型增删改查参考：
 >
 > - https://github.com/demopark/sequelize-docs-Zh-CN/blob/master/querying.md#%E5%9F%BA%E7%A1%80
